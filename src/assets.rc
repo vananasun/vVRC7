@@ -1,0 +1,5 @@
+background_x100                WEBP DISCARDABLE "assets/background_x100.webp"
+knob_big_x4                    WEBP DISCARDABLE "assets/knob_big.webp"
+knob_small_x4                  WEBP DISCARDABLE "assets/knob_small.webp"
+slider_level                   WEBP DISCARDABLE "assets/bar_level_full.webp"
+slider_mult                    WEBP DISCARDABLE "assets/bar_mult_full.webp"

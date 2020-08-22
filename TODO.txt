@@ -1,0 +1,11 @@
+S   Cursors from interactions
+S   GUI Scaling
+S   Percussions
+S   Implement pitch bend & modulation
+S   Load texture of knob once
+S   Invert some params like adsr and level
+
+C   On hover effects (implement frames in texture again)
+C   Better polyphony selection
+C   Predecode WebPs before window is open (multi-threaded?)
+C   Cleanup mouse handler
